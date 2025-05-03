@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-df = pd.read_csv("D:\CSE\Financial-Profile-Analysis-and-Default-Risk-Insights-project/dataset/LoanData_Preprocessed_v1.1.csv")
+df = pd.read_csv("D:\CSE\Financial-Profile-Analysis-and-Default-Risk-Insights-303-project/dataset/LoanData_Preprocessed_v1.1.csv")
 
 ## checking the data types
 print(df.info())
